@@ -8,7 +8,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url("./components/backgroundImg/88001492acf6a3b6276878523b26d7fe.jpg");
-    background-size: 370px;;
+  background-size: width 320px height auto;
   background-repeat: no-repeat;
   background-position: center;
 }
